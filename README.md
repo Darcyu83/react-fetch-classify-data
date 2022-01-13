@@ -1,4 +1,4 @@
-# Practice of Fetchig and classify data
+# Practice of fetchig and classifying data
 
 1. Fetching movie data
 2. Classify movie data per genre
