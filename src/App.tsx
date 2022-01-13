@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import { BrowserRouter } from "react-router-dom";
-import PracticeComp from "./components/PracticeComp";
+import PracticeComp from "./components/practice/PracticeComp";
 
 function App() {
   //router v6
